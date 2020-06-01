@@ -6,7 +6,7 @@ Because this is pretty niche specific program that is not for everyone, let me g
 
 First of all, like I've stated in my proposal, this is not a bot. My program will actually do things over real time so Instagram doesn't get us blocked. I am using chromedriver version 83 and it needs to match version of Google Chrome version 83. If you are using different version of Chrome browser, please download matching version of chromedriver here: https://chromedriver.chromium.org/downloads and replace the version  of chromedriver given in my folder.
 
-I created a short video to how to use my program, if you have time please watch it so you get the idea of how it works: https://www.dropbox.com/s/6ljpplzloaoyvkm/Programming.mp4?dl=0
+I created a short video to how to use my program, if you have time please watch it so you get the idea of how it works and don't have to read the users manual below: https://www.dropbox.com/s/6ljpplzloaoyvkm/Programming.mp4?dl=0
 
 Quick Users Manual:
 
