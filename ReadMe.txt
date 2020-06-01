@@ -2,7 +2,7 @@ Dear Mr. Deepak,
 
 this is my Instagram Automation project for Programming.
 
-Because this is pretty niche specific program that is not for everyone, let me give you a quick walkthrough so you know how to test it.
+Because this is pretty niche specific program that is not for everyone, let me give you a quick walkthrough so you know how to use it.
 
 First of all, like I've stated in my proposal, this is not a bot. My program will actually do things over real time so Instagram doesn't get us blocked. I am using chromedriver version 83 and it needs to match version of Google Chrome version 83. If you are using different version of Chrome browser, please download matching version of chromedriver here: https://chromedriver.chromium.org/downloads and replace the version  of chromedriver given in my folder.
 
