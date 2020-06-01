@@ -22,6 +22,7 @@ Quick Users Manual:
 /follow_likers both requiring parameters account and amount. Account meaning from which account will my program get and follow users, amount meaning how many users will it follow. We can use Instagrams official account for testing purposes. Here is how it works:
 			account: instagram
 			amount: 2
+
 Please be patient, I'm trying to do everything like real human would do it so its not suspicious for Instagram checking for bots. Scrolling through users to load enough usernames may take a while. PLEASE DO NOT CLOSE THE BROWSER MANUALLY, IT WILL CLOSE ITSELF WHEN DONE. 
 
 First it will get the usernames, open the first one and hit the follow button. After following the first one it will wait time set by us (1 minute in this case) before opening and following another user. If you would like to see more information about what my program is doing, you can always check python terminal while running, where I'm printing out basic actions.
