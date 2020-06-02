@@ -33,9 +33,12 @@ def log_into_account_stats(username, password):
         time.sleep(5)
 
         # clicking button "not now" for turning on notifications popup
-        notnow_button = driver.find_element_by_xpath('/html/body/div[4]/div/div/div[3]/button[2]')
-        notnow_button.click()
-        time.sleep(3)
+        try:
+            notnow_button = driver.find_element_by_xpath('/html/body/div[4]/div/div/div[3]/button[2]')
+            notnow_button.click()
+            time.sleep(3)
+        except:
+            pass
 
         #print(str(datetime.datetime.now().time())[0:8], "Login done")
 
