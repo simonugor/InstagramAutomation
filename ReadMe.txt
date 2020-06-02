@@ -14,7 +14,7 @@ Quick Users Manual:
 
 2. You will be first required to use [POST] /login function with parameters username and password to log in into Instagram. For testing purposes I've borrowed this Instagram account you can use:
 			username: hyped_combat_
-			password: 123testing123
+			password: testing123
 
 3. With function [POST] /set_time with parameter time (in minutes) you can set how long will the program wait between follow actions. I've set it by default to 1 minute so you don't have to wait ages to test my program. Please at this point don't set too many follow actions because Instagram can get us blocked. If you want to see my program work on a long term, please set time to at least 5 minutes between follow actions.
 
