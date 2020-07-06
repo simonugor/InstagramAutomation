@@ -1,6 +1,4 @@
-Dear Mr. Deepak, 
-
-this is my Instagram Automation project for Programming.
+This is my Instagram Automation project for Programming.
 
 Because this is pretty niche specific program that is not for everyone, let me give you a quick walkthrough so you know how to use it.
 
